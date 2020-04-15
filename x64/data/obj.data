@@ -1,5 +1,0 @@
-classes = 2
-train  = x64/data/train.txt
-valid  = x64/data/train.txt
-names = x64/data/obj.names
-backup = backup/
